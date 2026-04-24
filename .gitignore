@@ -34,6 +34,7 @@ htmlcov/
 # Student data
 Data/Input/
 Data/Processed/
+*.db
 
 # IDEs
 .vscode/

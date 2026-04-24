@@ -1,0 +1,4 @@
+module	related_module
+MPS229	PHY230
+MPS226	PHY227
+MPS334	MPS328
