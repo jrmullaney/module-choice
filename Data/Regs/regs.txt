@@ -1,0 +1,32 @@
+MPSU022 BSC/PHYSICS (PHYSICS) (2025-2026)(FT)
+
+Level 1
+1A. A student will take:
+MPS134 Fundamental Physics and Mathematics I ACAD YR 40
+MPS136 Fundamental Physics and Mathematics II 40
+MPS135 Investigating Nature: The Physicists Toolbox 20
+
+
+1B. A student will take 20 credits from this group:
+MPS137 Frontiers in Physics 20
+MPS138 Introduction to Astrophysics 20
+
+
+Level 2
+2A. A student will take:
+MPS216 F5 Classical and Quantum Physics ACAD YR 25 70
+A student must achieve a minimum of 30% in each exam for MPS216 and an average of 40% across all four exams to progress to Level 3
+
+A student will take one of the following streams:
+
+2B. SHEFFIELD STREAM (for students who have studied L1 at the University of Sheffield)
+A student will take 50 credits from this group:
+CMB238 F5 Aspects of Medical Imaging and Technology AUT SEM 25 10
+MPS210 F5 Galaxies SPR SEM 25 10
+MPS211 F5 Physics of Materials AUT SEM 25 10
+MPS212 F5 Programming in Python AUT SEM 25 10
+MPS213 F5 Stellar Structure and Evolution AUT SEM 25 10
+MPS228 F5 Physics with Labview SPR SEM 25 10
+MPS229 F5 Detection of Fundamental Particles SPR SEM 25 10
+MPS230 F5 Special Relativity and Subatomic Physics AUT SEM 25 10
+MPS231 F5 Computational Physics SPR SEM 25 10
